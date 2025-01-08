@@ -1,5 +1,6 @@
 # Murder Mystery Analysis Using SQL
 
+
 ## Introduction
 In this Project , I have solved the case of Murder which was happened in Fictional City called - Sql City on Date 15 jan 2018. 
 I used MS-SQL Server and imported the CSV files to a SQL Database in my local machine to carry forward with the analysis. 
